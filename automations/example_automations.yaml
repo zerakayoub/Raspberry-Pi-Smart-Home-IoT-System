@@ -1,1 +1,22 @@
+alias: Vibration Sensor Lighting Example
+triggers:
+  - type: motion
+    entity_id: binary_sensor.vibration_sensor
+    domain: binary_sensor
+    trigger: device
 
+conditions:
+  - condition: or
+    conditions:
+      - condition: sun
+        after: sunset
+        after_offset: "-00:45:00"
+      - condition: sun
+        before: sunrise
+        after_offset: "-00:45:00"
+
+action:
+  - type: turn_on
+    entity_id: kitchen_lights.switch
+    domain: switch
+mode: single
