@@ -1,4 +1,4 @@
-Raspberry Pi Smart Home IoT Automation System
+# Raspberry Pi Smart Home IoT Automation System
 
 This project documents the design and deployment of a distributed smart home automation system built using a Raspberry Pi edge server running Home Assistant.
 
