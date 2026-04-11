@@ -34,3 +34,5 @@ excluded from this repository for security reasons.
 |------|------|
 | ![Before](images/dashboards/kiosk_ui.png) | ![After](images/dashboards/phone_ui.jpg) |
 
+## Update
+See my "AI-Voice-Integrated-Smart-Home-Assistant" repository for the added AI Voice assitant.
