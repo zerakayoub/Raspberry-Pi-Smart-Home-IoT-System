@@ -2,10 +2,10 @@
 
 Custom dashboards were built for:
 
-mobile devices
+- Mobile devices
 
-a wall-mounted Raspberry Pi kiosk
+- A wall-mounted Raspberry Pi kiosk
 
-quick navigation between lighting, media, and monitoring systems
+- Quick navigation between lighting, media, and monitoring systems
 
 The dashboards provide centralized access to device control and system status.
