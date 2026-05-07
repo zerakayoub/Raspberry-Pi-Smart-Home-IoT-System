@@ -2,7 +2,7 @@
 
 The system integrates several external devices and services, including:
 
-- Zigbee devices through Zigbee2MQTT (Previously Home Assistant ZHA)
+- Zigbee devices through Zigbee2MQTT (Updated from Home Assistant ZHA)
 
 - TP-Link Kasa smart switches and dimmers
 
